@@ -12,9 +12,14 @@ Ayo_FAQ_gender_labels.csv
 gender_neutral_questions_llama_31_70b.csv
 gender_specific_questions_llama_33_70b.csv
 gender_specific_questions_llama_31_70b.csv
+framework_gold_alignment.csv
+processed_qa.csv
+
 
 #Scripts
 testing_gs_llama_33_70b.py
 testing_gs_llama_31_70b.py
 testing_gs_gemini.py
 testing_gn_llama_31_70b.py
+evaluation_llm_gs_biomistral.py
+evaluation_llm_gn_biomistral.py
