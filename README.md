@@ -12,7 +12,7 @@ This repository serves as a document store for my thesis project. It contains al
 - **Evaluation**
   - Scripts for model evaluation. Each script corresponds to specific model and evaluation rounds.
 
-- **Flowwise**
+- **Flowise**
   - Includes an Excel sheet with an overview of different agents, prompts, and variables, along with the agent flow in JSON format.
 
 - **Preprocessing**
